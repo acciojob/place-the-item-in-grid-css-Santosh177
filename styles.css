@@ -4,4 +4,8 @@
     grid-template-rows: repeat(2,200px);
 
 }
+.box{
+    height:200px;
+    width:200px;
+}
 /* Your CSS Code here. */
